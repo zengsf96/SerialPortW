@@ -1,11 +1,7 @@
 # SerialPortW
 
-学习C#，然后正好要用到串口，于是将这个SerialPort Windows作为练习。
+在原来的基础上增加奇偶校验，数据位选择，停止位选择等。
 
-## 程序运行效果
+发送和接收短接，进行LoopBack测试，显示效果如下所示：
 
-![SerialPortW.gif](image/SerialPortW.gif)
-
-## Author
-
-[曾剑锋](http://www.cnblogs.com/zengjfgit/)
+![](https://github.com/TonySudo/SerialPortW/blob/master/image/serialPoerW.gif)
